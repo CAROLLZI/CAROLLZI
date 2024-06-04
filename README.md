@@ -1,16 +1,15 @@
-## Hi there 👋
+## SEJA BEM VINDO AO MEU PERFIL🥇
 
-<!--
-**CAROLLZI/CAROLLZI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Ana Carolina 
+- Eu gosto de ler livros
+- Estou cursando administração
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📧
+asaraiva121@gmail.com
+
+@eae_carolinna
+
+
+![](https://media1.tenor.com/m/t273D3EqiIYAAAAC/one-piece-luffy.gif)
